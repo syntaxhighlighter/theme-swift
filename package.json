@@ -1,19 +1,20 @@
 {
   "name": "theme-swift",
   "version": "4.0.0",
-  "main": "./css/theme-swift.css",
+  "main": "theme.scss",
   "keywords": [
     "syntaxhighlighter",
     "theme",
     "css",
     "swift"
   ],
+  "homepage": "https://github.com/syntaxhighlighter/theme-swift",
+  "bugs": "https://github.com/syntaxhighlighter/theme-swift/issues",
   "author": {
     "name": "Nate Cook",
     "url": "https://github.com/natecook1000"
   },
   "scripts": {
-    "prepublish": "grunt build",
     "test": "mocha --opts mocha.opts test.js"
   },
   "repository": {
