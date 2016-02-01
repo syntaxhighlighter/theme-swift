@@ -1,5 +1,5 @@
 {
-  "name": "theme-swift",
+  "name": "@alexgorbatchev/theme-swift",
   "version": "4.0.0",
   "main": "theme.scss",
   "keywords": [
