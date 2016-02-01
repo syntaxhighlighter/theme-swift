@@ -2,11 +2,11 @@
 
 Swift theme for [SyntaxHighlighter](https://github.com/syntaxhighlighter).
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/theme-swift.svg)](https://travis-ci.org/alexgorbatchev/theme-swift)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/theme-swift.svg)](https://travis-ci.org/syntaxhighlighter/theme-swift)
 
 ## Installation
 
-    npm install syntaxhighlighter/theme-swift
+    npm install @alexgorbatchev/theme-swift
 
 ## Testing
 
